@@ -1,0 +1,44 @@
+{
+	"name": "deep-purplexbrown",
+	"displayName": "Deep Purple x Brown",
+	"version": "0.0.1",
+	"description": "A friendlier dark mode.",
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/NikolaRHristov/DeepPurpleXBrown"
+	},
+	"publisher": "nikolahristov",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Deep Purple x Brown",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Deep Purple x Brown-color-theme.json"
+			}
+		]
+	},
+	"engines": {
+		"vscode": "^1.50.0"
+	},
+	"icon": "images/DeepPurple.png",
+	"galleryBanner": {
+		"color": "#0f001f",
+		"theme": "dark"
+	},
+	"__metadata": {
+		"id": "00e2e7a7-694e-4aea-aadf-8120876bae07",
+		"publisherId": "bd2d3065-8a26-4bc4-aaa4-65508f4bca44",
+		"publisherDisplayName": "Nikola Hristov",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1722905922674,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery"
+	}
+}
