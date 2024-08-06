@@ -1,7 +1,7 @@
 {
 	"name": "deep-purplexbrown",
 	"displayName": "Deep Purple x Brown",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A friendlier dark mode.",
 	"categories": [
 		"Themes"
@@ -14,9 +14,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Deep Purple x Brown",
+				"label": "Deep Purple x Brown + Cyan",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Deep Purple x Brown-color-theme.json"
+				"path": "./themes/dpxbpc.json"
+			},
+			{
+				"label": "Deep Purple x Brown + White",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dpxbpc.json"
 			}
 		]
 	},
