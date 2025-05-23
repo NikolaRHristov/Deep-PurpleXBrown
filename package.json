@@ -8,7 +8,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "HTTPS://github.com/NikolaRHristov/DeepPurpleXBrown"
+		"url": "https://github.com/NikolaRHristov/DeepPurpleXBrown"
 	},
 	"publisher": "nikolahristov",
 	"contributes": {
